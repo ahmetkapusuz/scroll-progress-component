@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render successfully 1`] = `
+<div
+  className="ScrollProgress__ScrollProgressContainer-gc2lzd-0 eSsptH"
+  color="#2B879E"
+  height="6px"
+  style={
+    Object {
+      "width": "0%",
+    }
+  }
+/>
+`;
