@@ -1,6 +1,6 @@
 {
   "name": "scroll-progress-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React scroll progress component",
   "main": "src/index.js",
   "scripts": {
@@ -18,7 +18,9 @@
     "react",
     "component",
     "ui",
-    "notification",
+    "scroll",
+    "page scroll",
+    "progress",
     "hooks",
     "styled-components"
   ],
