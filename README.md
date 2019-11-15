@@ -4,7 +4,7 @@ This is a component it shows the scroll progress on top of page.
 
 ## Installation
 
-`npm install react-scroll-progress`
+`npm install scroll-progress-component`
 
 ## Example
 
